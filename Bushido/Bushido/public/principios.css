@@ -1,0 +1,33 @@
+body{
+    background-image: url("bambu.jpg");
+    color: white;
+    font-family: "Cursive","Brush Script MT";
+}
+h1{
+    font-size: 40pt;
+    margin-left: 20px;
+}
+h2{
+    font-size: 30pt;
+    margin-left: 20px;
+}
+
+h3{
+    margin-left: 30px;
+    font-size: 20pt;
+}
+p{
+    font-size: 25pt;
+    margin-left: 15px;
+}
+
+#menu{
+    top: 22px;
+    background-color: rgb(128, 128, 128, 0.8);
+    width: 100%;
+    font-size: 25px;
+    text-align: center;
+    padding: 20px;
+}
+
+

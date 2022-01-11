@@ -1,0 +1,15 @@
+.texto{
+    border-radius: 10px;
+}
+button{
+    border-radius: 10px;
+}
+body{
+    background-image: url("fundo.jpg");
+}
+h1{
+    color: white;
+}
+div{
+    color: white;
+}

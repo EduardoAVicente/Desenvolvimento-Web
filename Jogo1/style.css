@@ -1,0 +1,38 @@
+body{
+    background-image: url("fundo.jpg");
+    background-position: center;
+    text-align: center;
+}
+.jogo{
+    border: solid 3px #ffffff;
+    margin-left: 35%;
+    margin-right: 35%;
+    border-radius: 50px;
+    padding: 2%;
+}
+#entrada{
+    border-radius: 25px;
+    width: 50%;
+    padding: 2%;
+    outline: none;
+
+}
+
+#legenda{
+    color: white;
+    font-size: 25pt;
+}
+#botao{
+    border-radius: 25px;
+    background-color: #43db43;
+    width: 45%;
+    padding: 8px;
+    outline: none;
+    align-content: center;
+}
+#botao:hover{
+    background-color: #15c815;
+    width: 50%;
+    padding: 2%;
+}
+

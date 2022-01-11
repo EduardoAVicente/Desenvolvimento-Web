@@ -1,0 +1,37 @@
+#menu{
+    top: 22px;
+    background-color: rgb(128, 128, 128);
+    width: 100%;
+    font-size: 20px;
+}
+
+#minu{
+    text-align: center;
+
+}
+
+.rodape{
+    position: relative;
+    top: 100%;
+    width: auto;
+    text-align: center;
+    padding: 60px;
+    background-color: 	black;
+    color: white;
+}
+body{
+    background-image: url("site/fundo.jpg");
+}
+
+
+.texto{
+    font-family: monospace;
+    font-size: 15pt;
+    color: black;
+    margin-left: 20px;
+
+}
+
+.text{
+padding-left: 260px;
+}

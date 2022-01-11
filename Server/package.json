@@ -1,0 +1,11 @@
+insta{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Atividade de desenvolvimento web",
+  "main": "sever.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eduardo Antunes Vicente",
+  "license": "ISC"
+}

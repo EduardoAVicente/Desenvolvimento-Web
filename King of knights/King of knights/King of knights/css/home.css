@@ -1,0 +1,36 @@
+#menu{
+    top: 22px;
+    background-color: rgb(128, 128, 128);
+    width: 100%;
+    font-size: 20px;
+}
+
+
+.rodape{
+    position: relative;
+    top: 100%;
+    width: auto;
+    text-align: center;
+    padding: 60px;
+    background-color: 	black;
+    color: white;
+}
+
+body{
+    background-image: url("site/fundo.jpg");
+
+}
+
+.texto{
+    font-family: monospace;
+    font-size: 15pt;
+    color: white;
+    letter-spacing-top: 4px;
+    line-height: 2;
+    margin-left: 20px;
+}
+
+h1{
+    font-family: monospace;
+    color: white;
+}

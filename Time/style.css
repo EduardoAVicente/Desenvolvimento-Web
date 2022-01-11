@@ -1,0 +1,20 @@
+#titulo{color: white;
+    background-repeat: no-repeat;
+    background-image: url("relo.jpg");
+    width: 1200px;
+    height: 242px;}
+
+th{color: white;
+    background-color: green;}
+
+table{text-align: center;
+    border-collapse: collapse;
+    height: 300px;
+    width: 900px;
+}
+
+.line{background-color: #D3D3D3;}
+
+p{font-size: 20px;}
+
+ol{font-size: 20px;}

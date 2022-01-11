@@ -1,0 +1,49 @@
+body{
+    background-image: url("bambu.jpg");
+
+}
+
+.texto{
+    font-size: 15pt;
+    margin-left: 20px;
+    font-family: "Cursive","Brush Script MT";
+    font-size: 20pt;
+
+
+
+}
+
+.text{
+    padding-left: 200px;
+    padding-right: 200px;
+    color: white;
+}
+
+.text1{
+    padding-left: 320px;
+    padding-right: 100px;
+    color: white;
+}
+
+.titulo{
+    padding-left: 200px;
+    padding-right: 100px;
+    font-size: 25pt;
+    color: white;
+}
+.titulo1{
+    padding-left: 320px;
+    padding-right: 100px;
+    font-size: 25pt;
+    color: white;
+}
+
+#menu{
+    font-family: "Cursive","Brush Script MT";
+    top: 22px;
+    background-color: rgb(128, 128, 128, 0.8);
+    width: 100%;
+    font-size: 25px;
+    text-align: center;
+    padding: 20px;
+}

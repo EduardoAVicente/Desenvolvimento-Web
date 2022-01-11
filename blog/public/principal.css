@@ -1,0 +1,32 @@
+body{
+    background-image: url("fundo.jpg");
+}
+
+#titulo{
+    font-family: Georgia;
+    font-size: 30px;
+    padding-left: 20px;
+}
+#assunto{
+    font-family: Georgia;
+    font-size: 20px;
+    padding-left: 25px;
+}
+#texto{
+    font-family: Georgia;
+    padding-left: 30px;
+}
+#postagem{
+    border: 1px black solid;
+    border-radius: 30px;
+    background: rgba(220,220,220, 0.4);
+}
+#botao{
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 30px;
+    box-shadow: 0 0 0 0;
+    border: 0 none;
+    outline: 0;
+
+}

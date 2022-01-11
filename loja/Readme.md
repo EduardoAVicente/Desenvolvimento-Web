@@ -1,0 +1,1 @@
+Este site se trata de uma simulação de catalogo de loja virtual, funcionando atraves de um servidor

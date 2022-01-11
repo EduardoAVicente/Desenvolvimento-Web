@@ -1,0 +1,1 @@
+ Est site foi feito como simulação de um site de quadrinhos tendo um enorme foco no design voltado ao CSS

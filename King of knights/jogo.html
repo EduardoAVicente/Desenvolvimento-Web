@@ -1,0 +1,55 @@
+<!DOCTYPE   html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>King of knights</title>
+    <link rel="shortcut icon" href="css/site/ico.ico">
+    <link rel="stylesheet" href="css/jogo.css">
+</head>
+<body>
+<table id="menu">
+    <td><img src="css/site/simbolo.png" alt="inicio" width="100"> </td>
+    <td><a class="minu" href="home.html">Home</a></td>
+    <td><a class="minu" href="desenvolvedor.html">Desenvlvedor</a> </td>
+    <td><a class="minu" href="jogo.html">jogo</a> </td>
+</table>
+
+<br><br>
+<input id="botao" type="image" src="css/site/botao.png" value="Jogar" onclick="start()">
+<br><br><br>
+<canvas id="myCanvas"></canvas>
+<br>
+<h1>Instruções:</h1>
+<br>
+<ul>
+    <li>Para controlar o cavaleiro Dalibor usamos as teclas <img class="tecla" src="css/site/wasd.png"> WASD(frente, direita, trás, esquerda);</li>
+    <br>
+    <li>Para atacar do inimigos aproxime-se deles e use o <img class="tecla" src="css/site/mouseE.png"> botão esquerdo do mouse;</li>
+    <br>
+    <li>Para usar o escudo  na defender use o <img class="tecla" src="css/site/mouseD.png"> botão esquerdo do mouse;</li>
+    <br>
+    <li>Para utilizar o campo elétrico(poder especial), utilize a <img class="tecla" src="css/site/teclaQ.png"> tecla Q.</li>
+</ul>
+<br>
+
+<h1>Jogabilidade:</h1>
+<br>
+<div class="jogabilidade">
+<p>King of knights é um jogo singleplayer de ação e aventura, em que o jogador deve lutar contra diversos inimigos utilizando o cavaleiro Dalibor de Alcantará.</p>
+<p>O jogo corre em visão aérea e em terceira pessoa, o cavaleiro tem como vantagem sua velocidade de movimentação, porém tem baixa resistência a ataques.</p>
+<p>A cada inimigo morto o personagem ganha mais pontuação que permite que ele use o poder especial e avance para o próximo cenário, no último nível o jogador deve enfrentar o dragão Malus.</p>
+    <p>O escudo lhe permite bloquear o dano de ataques inimigos, porém não tem eficácia total contra Malus, por isso deve-se ter muito cuidado ao enfrentar tal inimigo.</p>
+    <p>Devido ao enorme peso do escudo não é possível utilizado enquanto ataca, por isso toda vez que o escudo estiver ativo o jogador não poderá deferir dano.</p>
+    <p>Para saber quando o escudo está ativo basta ver através do ícone que aparece no canto superior esquerdo toda vez que o jogador utilizar o escudo.</p>
+    <p>Quando usamos o poder especial o personagem libera uma enorme quantidade de poder, assim permitindo dar dano em área nos inimigos, além disso o ataque especial possui uma enorme eficácia contra o Dragão Malus, assim se tornando uma enorme vantagem.</p>
+    <p>Para usar o ataque especial, deve-se ter no mínimo 3 de poder, valor que aumenta cada vez que o jogador elimina um inimigo.</p>
+    <p>Os inimigos podem nascer fora do mapa e até mesmo sair dele quando necessário, assim podendo se locomover além da borda confundindo o jogador.</p>
+
+</div>
+<br><br><br>
+<div class="rodape" align="center">Este site foi feito para motivos de estudos para a FEI</div>
+
+
+<script src="jogo.js"></script>
+</body>
+</html>

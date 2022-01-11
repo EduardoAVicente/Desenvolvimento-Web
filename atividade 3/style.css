@@ -1,0 +1,73 @@
+body{
+    background-color: lightskyblue;
+    text-align: center;
+    position: absolute;
+    width: auto;
+}
+.inicio{
+    border: 4px solid darkblue;
+    width: 100%;
+}
+
+#css{
+    position: absolute;
+    right: 2%;
+    top: 65px;
+}
+#html{
+    position: absolute;
+    top: 80px;
+    left: 20px;
+}
+
+#h{
+    padding-top: 110px;
+    color: orangered;
+    font-size: 40pt;
+
+}
+#pag{
+    color: #ff0000;
+    font-family: "Comic Sans MS";
+    font-size: 25pt;
+
+}
+#p2{
+    font-family: "Arial Black";
+    font-size: 20pt;
+    color: green;
+
+}
+#p3{
+    font-family: "Freestyle Script";
+    font-size: 40pt;
+    color: white;
+
+}
+table{
+    border-color: blueviolet;
+    font-size: 20pt;
+    border: 5px dashed red;
+}
+.tabela{
+    width: 50%;
+    margin-left: 25%;
+}
+td{
+    padding: 20px 1%;
+    text-align: center;
+}
+#fim{
+    text-align: left;
+    font-size: 20pt;
+    background-color: yellow;
+    width: 85%;
+}
+#p5 {
+    font-size: 20pt;
+}
+th{
+    padding: 20px 1%;
+    color: red;
+
+}

@@ -1,0 +1,43 @@
+body{
+    background-image: url("fundo.jpg");
+}
+#titulo{
+    font-family: Georgia;
+    font-size: 30px;
+    padding-left: 20px;
+    color: white;
+}
+#assunto{
+    font-family: Georgia;
+    font-size: 20px;
+    padding-left: 25px;
+    color: white;
+}
+#texto{
+    font-family: Georgia;
+    padding-left: 30px;
+    color: white;
+}
+input{
+    border-radius: 20px;
+    padding: 5px;
+    box-shadow: 0 0 0 0;
+    border: 0 none;
+    outline: 0;
+
+
+}
+#botao{
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 30px;
+    margin-left: 120px;
+    margin-left: 330px;
+}
+div{
+    margin-left: 200px;
+}
+h1{
+    padding-left: 250px;
+    color: white;
+}

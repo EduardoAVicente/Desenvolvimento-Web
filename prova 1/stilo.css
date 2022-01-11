@@ -1,0 +1,77 @@
+body{
+    background-color: lightskyblue;
+    width: auto;
+    max-width: 100%;
+}
+#p1{
+    font-size: 25pt;
+    font-family: Comic Sans MS;
+    text-align: center;
+
+}
+#photo {
+    border: 5px darkblue solid;
+    padding: 20px 45% 20px 39%;
+    padding-bottom: 40px;
+}
+h1{
+    text-align: center;
+    border: 5px dashed darkblue;
+    font-size: 30pt;
+    color: darkgreen;
+    padding-top: 20px;
+}
+#p2{
+    font-size: 25pt;
+    color: #5d0c0c;
+    font-family: SansSerif;
+    text-align: center;
+}
+#p3{
+    font-size: 25pt;
+    color: #5D0C0C;
+    text-align: center;
+    font-family: SansSerif;
+}
+iframe{margin-left: 35%;
+}
+#p4{
+    font-family: "Droid Sans";
+    font-size: 25pt;
+    color: blue;
+    text-align: center;
+}
+.p5{
+    font-family: Century;
+    font-size: 25pt;
+    text-align: center;
+    color: darkslateblue;
+}
+#foto{
+    margin-left: 30%;
+}
+.list{
+    text-align: center;
+    color: darkblue;
+    font-size: 20pt;
+    font-weight: bold;
+}
+#lista{
+    border: 5px dashed darkblue;
+    background-color: lightcyan;
+    width: 50%;
+    margin-left: 20%;
+    font-size: 15pt;
+    text-align: center;
+}
+table{
+    border: 5px dashed red;
+    text-align: center;
+    border-color: red;
+    width: 30%;
+    font-size: 14pt;
+    margin-left: 35%;
+}
+td{
+    padding: 10px;
+}

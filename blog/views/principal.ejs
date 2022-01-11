@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Blog post</title>
+    <link rel="stylesheet" type="text/css" href="principal.css">
+
+</head>
+<body>
+<form action="/criaPost" method="get">
+    <input id="botao" type="submit" value="Criar post">
+</form>
+<br><br><br>
+<div id="postagem">
+
+<%for (let i = 0; i< posts.length; i++) {%>
+    <p id="titulo"><%=posts[i].dbtitulo%></p>
+    <p id="assunto"><%=posts[i].dbresumo%></p>
+    <p id="texto"><%=posts[i].dbconteudo%></p>
+    <hr>
+    <%}%>
+</div>
+
+
+</body>
+</html>

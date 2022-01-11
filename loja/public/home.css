@@ -1,0 +1,13 @@
+body{
+    background-image: url("fundo.jpg");
+}
+h1{
+    text-align: center;
+    color: white;
+}
+img{
+    padding-left: 27%;
+}
+a{
+    color: red;
+}

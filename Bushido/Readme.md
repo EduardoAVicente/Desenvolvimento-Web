@@ -1,0 +1,1 @@
+Este site foi elaborado como tema o Bushido, tendo como objetivo criar um site gerado por um servidor
